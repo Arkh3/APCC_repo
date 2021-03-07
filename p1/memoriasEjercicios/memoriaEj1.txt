@@ -1,19 +1,19 @@
 - Qiskit:
 
-Tiene una forma de crear los circuitos sencilla y facil de recordar (todos los entornos tienen muchas similitudes y son muy fáciles de recordar en este aspecto).
+Tiene una forma de crear los circuitos sencilla y fácil de recordar (todos los entornos tienen muchas similitudes y son muy fáciles de recordar en este aspecto).
 
-De todos los entornos, qiskit tiene la forma mas 'user friendly' de imprimir los circuitos por consola. 
+De todos los entornos, qiskit tiene la forma más 'user friendly' de imprimir los circuitos por consola.
 
 
 - Cirq:
 
-Podemos ver como el entorno de Cirq se parece bastante a Qiskit. 
+Podemos ver cómo el entorno de Cirq se parece bastante a Qiskit.
 
 Cirq te permite crear diferentes tipos de cubits (cubits con nombre, un vector de cubits o una matriz de cubits).
 
-En mi opinión cirq te deja más claro y más limpio dónde creas el circuito y qué componentes tiene.
+En mi opinión cirq te deja más claro y más limpio donde creas el circuito y qué componentes tiene.
 
-Como la mayoría de entornos, Cirq te deja imprimir el circuito que has creado pero de forma mucho mas simple que Qiskit ya que solo utiliza caracteres ascii para representarlo.
+Como la mayoría de entornos, Cirq te deja imprimir el circuito que has creado pero de forma mucho más simple que Qiskit ya que solo utiliza caracteres ascii para representarlo.
 
 
 - Forest:
@@ -24,16 +24,17 @@ Tiene una forma similar a Cirq de crear los circuitos.
 
 Para poder compilar y ejecutar el código es muy raro ya que tenemos que abrir dos terminales y usar un comando en cada una para que se abran dos servidores que escucharán peticiones, uno de ellos compila el código y el otro lo ejecuta.
 
-Imprime los circuitos de una manera aun mas simple que Cirq y es muy poco visual.
+Imprime los circuitos de una manera aún más simple que Cirq y es muy poco visual.
 
 
 - ProjectQ:
 
 Tiene una forma algo diferente al resto de crear los circuitos pero que es intuitiva y muy facil de recordar.
 
-No podemos observar los circuitos creados por consola sino que tenemos que usar varios comandos que generan un archivo en el que se puede visualizar el circuito. Esto es algo inconveniente ya que en los otros entornos era mucho mas fácil.
+No podemos observar los circuitos creados por consola sino que tenemos que usar varios comandos que generan un archivo en el que se puede visualizar el circuito. Esto es algo inconveniente ya que en los otros entornos era mucho más fácil.
 
 
 - Tket:
 
 Se parece mucho a Qiskit en la forma de crear los circuitos y en la forma de simularlos, la única diferencia es que no he encontrado ninguna forma de visualizar los circuitos.
+
