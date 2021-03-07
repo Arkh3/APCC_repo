@@ -1,0 +1,24 @@
+# OpenQASM backend:
+
+Sirve para simular un experimento "real" en el que colapsamos los qbits en bits clásicos y los medimos.
+
+Se requiere hacer medidas de los qbits.
+
+Al contrario que los otros dos backends, permite simular el circuito múltiples veces y llevar una cuenta de los resultados obtenidos en cada ejecución.
+
+
+
+# Statevector backend:
+
+Devuelve el estado cuántico del circuito (un vector de 2^n, donde n es el número de qbits).
+Hace solo una medida (no puedes ejecutarlo varias veces).
+
+Tampoco necesitamos hacer medidas de los qbits.
+
+
+
+# Unitary backend:
+
+No podemos realizar la medida de un qbit en este backend y al contrario que el backend de qsam solo simula una vez el circuito.
+
+Calcula una matriz que representa las puertas del circuito cuántico.
