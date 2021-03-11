@@ -1,0 +1,1 @@
+Las diferencias entre una simulación con ruido y una ejecución en un computador cuántico real no son visibles en los resultados ni en las gráficas. Esto es una señal de que el simulador con ruido está muy conseguido y es fiel a la realidad.
